@@ -15,7 +15,7 @@ This project showcases an elegant jewellery website with a clean and modern desi
 
 * Clean and modern user interface
 * Hero banner
-* Jewellery collection pages
+* Jewellery collection page
 * About section
 * Contact form
 * Newsletter subscription
@@ -23,7 +23,7 @@ This project showcases an elegant jewellery website with a clean and modern desi
 
 ## Purpose
 
-This project was created as a tribute while also serving as a front-end practice project to improve my HTML and Tailwind CSS skills.
+This project is created as a tribute while also serving as a front-end practice project to improve my HTML and Tailwind CSS skills.
 
 ## Author
 
