@@ -19,7 +19,6 @@ This project showcases an elegant jewellery website with a clean and modern desi
 * About section
 * Contact form
 * Newsletter subscription
-* Mobile-friendly layout
 * Well-organized code structure
 
 ## Purpose
